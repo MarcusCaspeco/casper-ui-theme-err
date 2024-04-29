@@ -1,4 +1,4 @@
-This is an unmodified vite + react + typescript + SWR template (created completely with `npm create vite@latest`)
+This is an unmodified vite + react + typescript + SWC template (created completely with `npm create vite@latest`)
 
 To see error, run:
 
